@@ -2,7 +2,7 @@
 
 Predicting the presence of heart disease from 13 routine clinical variables, with a **prevention** goal: flag high-risk patients, including asymptomatic ones, before a cardiac event.
 
-Group project, MSc Big Data & AI, INSEEC Grande École (2026).
+Academic project, Master Degree 2, Big Data & AI, INSEEC Grande École (2026).
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange) ![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-red)
 
@@ -85,11 +85,6 @@ The notebook also runs on Google Colab (it falls back to Google Drive if `data/`
 
 The dataset is anonymised and was used for academic purposes only, following GDPR principles. No attempt at re-identification was made. This model is a decision-support prototype, not a diagnostic tool.
 
-## Team
-
-Ketsia Kemougne · Rim Blila · Chaima Maouche · Linda Bouroumi · Kenza Bouteboub
-
-**My contribution:** _[to complete: e.g. exploratory analysis and visualisations, Logistic Regression and evaluation, ANN, literature review, report writing]_
 
 ## Tech stack
 
